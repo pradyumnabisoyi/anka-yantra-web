@@ -1,0 +1,24 @@
+.losotable {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    height: 400px;
+    width: 400px;
+} 
+
+.losotbody {
+    align-content: center;
+}
+
+.tablecontainer td {
+    border: 8px solid #e698e3 !important;
+    text-align: center;
+    padding: 6px;
+    width: 30%;
+    height: 30%;
+    border-width: 1;
+}
+
+.table-center {
+    margin-left: auto;
+    margin-right: auto;
+}

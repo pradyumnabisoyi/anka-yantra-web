@@ -1,0 +1,17 @@
+.hebrewTable {
+    margin-top: 20px;
+    margin-right: auto;
+    border-collapse: separate;
+}
+
+.hebrewTable TR {
+    margin-top: 10px;
+}
+.hebrewTable td {
+    text-align: center;
+    padding: 6px;
+    margin: 1px;
+    border-radius: 5px;
+    background-color: #a92aa5dc;
+    color: white;
+}
